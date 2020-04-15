@@ -178,6 +178,7 @@ h6 {
 
 /* Mobile Navigation */
 .mobile-nav-toggle {
+  color: #149ddd;
   position: fixed;
   right: 15px;
   top: 15px;
